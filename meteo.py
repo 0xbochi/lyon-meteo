@@ -19,8 +19,9 @@ else:
 
 with open ("README.md", "w", encoding="utf-8") as f:
     f.write(f'''# METEO À LYON
+
+Dernière update datant du {date} à {hours} heure.  
+Il fait actuellement {temperature}°C et le vent souffle à {windSpeed} km/h.      
+
 ![](./.github/{img})
-## Dernière update datant du {date} à {hours} heure.
-            
-## Il fait actuellement {temperature}°C et le vent souffle à {windSpeed} km/h.      
 ''')
