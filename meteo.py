@@ -1,6 +1,6 @@
 import requests
 import json
-
+from datetime import datetime
 # Récupérer les données météorologiques actuelles pour Lyon
 response = requests.get('https://api.open-meteo.com/v1/forecast?latitude=45.75&longitude=4.85&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m')
 
@@ -24,4 +24,6 @@ Dernière update datant du {date} à {hours} heure.
 Il fait actuellement {temperature}°C et le vent souffle à {windSpeed} km/h.      
 
 ![](./.github/{img})
+
+last launch : {datetime.now()}
 ''')
