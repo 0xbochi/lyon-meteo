@@ -1,8 +1,8 @@
 # METEO À LYON
 
-Dernière update datant du 2023-07-04 à 16 heure.  
-Il fait actuellement 30.3°C et le vent souffle à 12.6 km/h.      
+Dernière update datant du 2023-07-05 à 05 heure.  
+Il fait actuellement 19.2°C et le vent souffle à 1.0 km/h.      
 
-![](./.github/sun.png)
+![](./.github/rain.png)
 
-last launch : 2023-07-04 18:00:02.474074
+last launch : 2023-07-05 07:00:02.644041
