@@ -1,8 +1,8 @@
 # METEO À LYON
 
-Dernière update datant du 2024-01-31 à 17 heure.  
-Il fait actuellement 11.5°C et le vent souffle à 3.6 km/h.      
+Dernière update datant du 2024-02-01 à 06 heure.  
+Il fait actuellement 4.2°C et le vent souffle à 0.5 km/h.      
 
 ![](./.github/rain.png)
 
-last launch : 2024-01-31 18:00:12.415109
+last launch : 2024-02-01 07:00:07.678896
